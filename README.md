@@ -101,3 +101,16 @@ This project follows the **SDLC** approach to ensure a systematic, efficient, an
    ```bash
    git clone https://github.com/zbtomal/research-collaboration-portal.git
    cd research-collaboration-portal
+
+## Roadmap
+
+    Phase 1: Core features (user profiles, project listings, matchmaking).
+    Phase 2: Collaboration tools (task management, file sharing).
+    Phase 3: Advanced analytics and grant management.
+## Contact
+
+    For queries or collaboration:
+
+      Email: zbtomal.10@gmail.com
+      GitHub: zbtomal
+
